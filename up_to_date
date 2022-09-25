@@ -1,0 +1,4 @@
+gti status
+git fetch
+git status
+git pull
